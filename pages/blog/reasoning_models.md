@@ -7,7 +7,7 @@ author: Laurence Liang
 
 ---
 
-_Published as part of ![LaunchYard.xyz](https://launchyard.xyz) - figures in process of being uploaded (currently transcribing to markdown!)_
+_Published as part of [LaunchYard.xyz](https://launchyard.xyz) - figures in process of being uploaded (currently transcribing to markdown!)_
 
 ---
 
