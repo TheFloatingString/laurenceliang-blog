@@ -20,7 +20,7 @@ export default function Document() {
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} />
       </Head>
-      <body>
+      <body onLoad={() => window.location.href = 'https://laurenceliang.github.io'}>
         <Main />
         <NextScript />
       </body>
