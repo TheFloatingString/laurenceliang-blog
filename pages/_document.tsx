@@ -19,8 +19,11 @@ export default function Document() {
         <meta name="twitter:site" content="@yourname" />
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} />
+        <script dangerouslySetInnerHTML={{
+          __html: `window.location.href = 'https://laurenceliang.github.io';`
+        }} />
       </Head>
-      <body onLoad={() => window.location.href = 'https://laurenceliang.github.io'}>
+      <body>
         <Main />
         <NextScript />
       </body>
